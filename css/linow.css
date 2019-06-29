@@ -1,0 +1,16 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+    font-family: Ink Free;
+    letter-spacing: 2px;
+}
+
+header {
+   background-color: #A1D6E2;
+   width: 100%;
+   position: fixed;
+   height: 20px;
+}
