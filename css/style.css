@@ -1,0 +1,87 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
+body {
+    border-top: solid 1em #A1D6E2;
+	background-color: #F1F1F2;
+    font-family: Ink Free;
+    letter-spacing: 2px;
+    border-bottom: solid 1em #A1D6E2;
+}
+
+header {
+    transform: translate(0%, 20%);
+}
+
+header h2 {
+    font-size: 20px;
+}
+
+#logo {
+    transform: translate(140%, -30%);
+    width: 350px;
+    height: 350px;
+}
+
+h2 {
+    font-size: 1.2em;
+    letter-spacing: 3px;
+    text-shadow: 1px 3px #BCBABE;
+    font-family: Bradley Hand ITC;
+}
+
+h1 {
+	color: #1995AD;
+	font-size: 2em;
+    letter-spacing: 3px;
+    text-shadow: 2px 5px #BCBABE;
+    font-family: Facebook Letter Faces;
+}
+
+#gambar1 {
+    width: 50em;
+    margin: auto;
+
+}
+
+#gambar2 {
+    width: 50em;
+    margin: auto;
+}
+
+#gambar3 {
+    width: 50em;
+    margin: auto;
+}
+
+#gambar4 {
+    width: 50em;
+    margin: auto;
+}
+
+#gambar5 {
+    width: 50em;
+    margin: auto;
+}
+
+.harga {
+    font-family: Candara;
+    font-size: 40px;
+}
+
+.informasi {
+    font-family: Candara;
+    font-size: 20px;
+}
+
+.sosmed {
+    letter-spacing: 2em;
+    transform: translate(0px, -30px);
+}
+
+.informasi {
+    font-size: 15px;
+    transform: translate(0px, -50px);
+}
